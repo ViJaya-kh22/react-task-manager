@@ -6,7 +6,7 @@ A simple task management application built using React. Users can add tasks, upd
 
 ## Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](preview.png)
 
 ---
 
